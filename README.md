@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some React projects to practice.
 
-- 🌱 I’m currently learning and practicing **HTML, CSS, JavaScript, Bootstrap, ReactJS**
+- 🌱 I’m currently learning and practicing **HTML, CSS, JavaScript, Bootstrap, ReactJS, NodeJS**
 
 - 📫 How to reach me **mh.mehmetyuksel@gmail.com**
 
