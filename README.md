@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Mehmet</h1>
-<h3 align="center">A passionate frontend developer from Istanbul, Turkey</h3>
+<h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
 
 - 🔭 I’m currently working on some React projects to practice.
 
