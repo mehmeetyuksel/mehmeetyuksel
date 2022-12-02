@@ -1,9 +1,9 @@
 <h1 align="center">Hi!, I'm Mehmet</h1>
 <h3 align="center">A passionate software developer from Istanbul, Turkey</h3>
 
-- 🔭 I’m currently working on some React projects to practice.
+- 🔭 I’m currently working at A101 Yeni Mağazacılık as a Front End Developer.
 
-- 🌱 I’m currently learning and practicing **HTML, CSS, JavaScript, Bootstrap, ReactJS, NodeJS**
+- 🌱 I’m currently using **React JS, TypeScript, Ant Design and Tailwind CSS**
 
 - 📫 How to reach me **mh.mehmetyuksel@gmail.com**
 
